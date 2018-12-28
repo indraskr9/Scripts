@@ -25,7 +25,7 @@ export CROSS_COMPILE="/home/kunalkene1797/arm-eabi-6.0/bin/arm-eabi-"
 compile_kernel ()
 {
 echo -e "$White***********************************************"
-echo "         Compiling BlackBox kernel             "
+echo "         Compiling kernel             "
 echo -e "***********************************************$nocol"
 make clean && make mrproper
 # change device name here
