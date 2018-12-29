@@ -19,7 +19,7 @@ export ARCH=arm64
 export SUBARCH=arm64
 export KBUILD_BUILD_USER="Indraskr"
 export KBUILD_BUILD_HOST="Indraskr"
-export CROSS_COMPILE="/home/kunalkene1797/arm-eabi-6.0/bin/arm-eabi-"
+export CROSS_COMPILE="/home/dni/aaarch64-linux-android-7.0-kernel/bin/aaarch64-linux-"
 
 # Compilation Scripts Are Below
 compile_kernel ()
